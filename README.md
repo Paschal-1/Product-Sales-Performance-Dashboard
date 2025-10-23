@@ -15,6 +15,12 @@ The dashboard was built to help stakeholders quickly identify **top-performing p
 - Dashboard highlights **Order Status**, **Territory Performance**, and **Salesperson Contribution** — enabling quick identification of bottlenecks and growth areas.
 
 ---
+### 📊 Dashboard Overview
+<img width="885" height="493" alt="productsales2" src="https://github.com/user-attachments/assets/3a7ff049-0657-45a3-aaba-94d346a1e34f" />
+<img width="875" height="479" alt="productsales3" src="https://github.com/user-attachments/assets/f9559b4b-32fe-46be-a7ac-7403ab5de16f" />
+<img width="898" height="506" alt="productsales4" src="https://github.com/user-attachments/assets/c602fe40-9874-4abc-9580-b9ff39ffa06e" />
+
+
 
 ### ⚙️ Tools & Techniques Used
 | Tool / Technique | Purpose |
